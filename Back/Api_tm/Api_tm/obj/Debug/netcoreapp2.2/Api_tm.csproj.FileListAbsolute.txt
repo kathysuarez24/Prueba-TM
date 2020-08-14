@@ -1,0 +1,14 @@
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\bin\Debug\netcoreapp2.2\Api_tm.deps.json
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\bin\Debug\netcoreapp2.2\Api_tm.runtimeconfig.json
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\bin\Debug\netcoreapp2.2\Api_tm.runtimeconfig.dev.json
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\bin\Debug\netcoreapp2.2\Api_tm.dll
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\bin\Debug\netcoreapp2.2\Api_tm.pdb
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.csprojAssemblyReference.cache
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.RazorAssemblyInfo.cache
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.RazorAssemblyInfo.cs
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.AssemblyInfoInputs.cache
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.AssemblyInfo.cs
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.RazorTargetAssemblyInfo.cache
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.dll
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.pdb
+C:\Users\TM Consulting\Proyectos .NET\Api_tm\Api_tm\obj\Debug\netcoreapp2.2\Api_tm.csproj.CoreCompileInputs.cache
