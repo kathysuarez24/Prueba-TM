@@ -19,8 +19,12 @@ Proyecto de prueba que permite realizar CRUD de Usuarios y CRUD de roles, ademas
  
 # Instalación
  1) Descargar/Clonar el proyecto
- 2) En la consola ubicarse en la carpeta "Front" y ejecutar
+ 2) Ir a la carpeta back/Api_tm y abrir el archivo Api_tm.sln
+    - Abrir la consola de administrador de paquetes y ejecutar:
+      add-migration inicial
+      update-database
+      (Esto crea la base de datos)
+ 3) En la consola ubicarse en la carpeta "Front" y ejecutar
     - npm install (para instalar las dependencias)
     - npm run serve (correr el proyecto)
- 3) Create a new database and configure it into appsettings "DefaultConnection" string
    
