@@ -13,7 +13,7 @@ namespace Api_tm.Model
         //Para que un dato sea requerido se coloca como un data notation
         public string Nombre { get; set; }
         public string Apellido { get; set; }
-        public int Telefono { get; set; }
+        public string Telefono { get; set; }
         public string Direccion { get; set; }
         public string Email { get; set; }
         public string Contrasena { get; set; }
